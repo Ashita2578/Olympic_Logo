@@ -1,0 +1,10 @@
+.body_backgorund {
+	background-image:linear-gradient(orange, orchid,deepskyblue,deeppink,orangered);
+	background-position: center;
+	background-size: cover;
+}
+#myCanvas{
+    border-style:dashed;
+    border-width: 10px;
+    background-color: rgb(255, 255, 255);
+}
